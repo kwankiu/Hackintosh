@@ -4,10 +4,9 @@ A Simple Tool with patches to hackintosh your PC in minutes (Support Both Intel 
 
 ### Features
 
-- Enables macOS to run on AMD CPUs on the fly.
+- Enables macOS to run on PC
+- Hackintosh without a Real Mac
 - Enables iMessage, Siri, Facetime, etc.
-- Enables HandOff, Continuity etc.
-- Faster releases compared to open source kernel
 
 ### Supported CPU's
 
