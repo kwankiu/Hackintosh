@@ -17,7 +17,6 @@ A Simple Tool with patches to hackintosh your PC in minutes (Support Both Intel 
 ### Supported macOS versions
 
 **`For Intel CPU's :`**
-- High Sierra 10.13.6
 - Mojave 10.14.1, 10.14.3, 10.14.4, 10.14.5
 - Catalina 10.15 Developer Beta
 
